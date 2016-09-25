@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>images/RumaxIP Icon 11.png</file>
+        <file>images/RumaxIP Icon 42.png</file>
+        <file>images/RumaxIP Icon 14.png</file>
+        <file>images/RumaxIP Icon 04.png</file>
+        <file>images/RumaxIP Icon 08.png</file>
+        <file>images/redoPic.png</file>
+        <file>images/undoPic.png</file>
+    </qresource>
+    <qresource prefix="/new/prefix2">
+        <file>images/free-preloaders11.gif</file>
+    </qresource>
+</RCC>
